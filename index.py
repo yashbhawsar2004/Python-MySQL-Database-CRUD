@@ -136,7 +136,7 @@ try:
     database = conn.connect(
         host="localhost",
         user="root",
-        password="Yash@123"
+        password="your_password"
     )
 
     print("MySQL connection successful!")
